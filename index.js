@@ -15,7 +15,7 @@ function deleteFromObjectByKey(object, key) {
 }
 
 function destructivelyDeleteFromObjectByKey(object, key) {
-  object
+  object = key
   return object
 
 }
