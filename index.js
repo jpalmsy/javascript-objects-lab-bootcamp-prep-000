@@ -18,4 +18,3 @@ function destructivelyDeleteFromObjectByKey(object, key) {
   object = key
   return object
 }
-const recipe = { eggs: 3 }
